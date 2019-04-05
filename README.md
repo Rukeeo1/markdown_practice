@@ -1,6 +1,7 @@
 # markdown_practice
 Austine gave us an assignment to learn how to format mark downs..
 
+
 # Rukevwe Ojigbo
 
 <!-- email and adress details -->
@@ -15,9 +16,4 @@ Austine gave us an assignment to learn how to format mark downs..
 
 <!-- </div> -->
 ```
-
-
-
-
-
 
