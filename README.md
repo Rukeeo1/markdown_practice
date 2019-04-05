@@ -27,7 +27,13 @@ My duties included, helping prepare project schedules, monitoring of work progre
 and writing progress report.
 
 ## _Technical Skills_
+> Html, Css, Javascript
 
+## _Education_
+>University of Benin, Benin City, EdoState. 2007 - 2012
+- B.Eng {Hons} Civil Engineering [SecondClassUpper]
+> Standard International College, Warri,Delta State Examination 2005-2006
+- Senior Secondary School Certificate Examination(SSCE)
 
 
 
