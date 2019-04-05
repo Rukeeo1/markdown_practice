@@ -26,6 +26,8 @@ I worked as an assistant to the project manager,during a Jetty maintenance proje
 My duties included, helping prepare project schedules, monitoring of work progress
 and writing progress report.
 
+## _Technical Skills_
+
 
 
 
